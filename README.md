@@ -1,1 +1,3 @@
-# laboratoryWorkers
+# Программа для учета сотрудников лабораторий
+1. WinForms
+2. ADO.NET
